@@ -1,0 +1,112 @@
+[
+{
+    "id":1,
+    "image":"/Slip/1.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":6,
+    "image":"/Slip/6.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":10,
+    "image":"/Slip/10.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":15,
+    "image":"/Slip/15.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+"id":2,
+"image":"/Slip/2.webp",
+"title":"Lorem ipsum, dolor sit amet consectetur",
+"Price":100,
+"available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+"id":3,
+"image":"/Slip/3.webp",
+"title":"Lorem ipsum, dolor sit amet consectetur",
+"Price":100,
+"available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+"id":7,
+"image":"/Slip/7.jpg",
+"title":"Lorem ipsum, dolor sit amet consectetur",
+"Price":100,
+"available":["احمر","ازرق","اخضر","موف","اصفر"]
+},    {
+"id":8,
+"image":"/Slip/8.jpg",
+"title":"Lorem ipsum, dolor sit amet consectetur",
+"Price":100,
+"available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+"id":11,
+"image":"/Slip/11.webp",
+"title":"Lorem ipsum, dolor sit amet consectetur",
+"Price":100,
+"available":["احمر","ازرق","اخضر","موف","اصفر"]
+},    {
+"id":12,
+"image":"/Slip/12.webp",
+"title":"Lorem ipsum, dolor sit amet consectetur",
+"Price":100,
+"available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+"id":16,
+"image":"/Slip/16.jpg",
+"title":"Lorem ipsum, dolor sit amet consectetur",
+"Price":100,
+"available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+"id":4,
+"image":"/Slip/4.webp",
+"title":"Lorem ipsum, dolor sit amet consectetur",
+"Price":80,
+"available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+"id":9,
+"image":"/Slip/9.jpg",
+"title":"Lorem ipsum, dolor sit amet consectetur",
+"Price":80,
+"available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+"id":13,
+"image":"/Slip/13.webp",
+"title":"Lorem ipsum, dolor sit amet consectetur",
+"Price":80,
+"available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+"id":5,
+"image":"/Slip/5.jpg",
+"title":"Lorem ipsum, dolor sit amet consectetur",
+"Price":90,
+"available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+"id":14,
+"image":"/Slip/14.jpg",
+"title":"Lorem ipsum, dolor sit amet consectetur",
+"Price":90,
+"available":["احمر","ازرق","اخضر","موف","اصفر"]
+}
+]

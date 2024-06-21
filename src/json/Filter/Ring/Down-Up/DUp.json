@@ -1,0 +1,261 @@
+[ 
+    {
+        "id":1,
+        "image":"/Rings/2.webp",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":80,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":2,
+        "image":"/Rings/12.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":80,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":3,
+        "image":"/Rings/17.webp",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":80,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":4,
+        "image":"/Rings/22.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":80,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":5,
+        "image":"/Rings/27.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":80,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":6,
+        "image":"/Rings/32.jpeg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":80,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":7,
+        "image":"/Rings/37.webp",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":80,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":8,
+        "image":"/Rings/3.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":9,
+        "image":"/Rings/8.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":10,
+        "image":"/Rings/13.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":11,
+        "image":"/Rings/18.webp",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":12,
+        "image":"/Rings/23.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":13,
+        "image":"/Rings/28.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":14,
+        "image":"/Rings/33.jpeg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":15,
+        "image":"/Rings/38.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+    "id":16,
+    "image":"/Rings/1.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":17,
+    "image":"/Rings/5.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":18,
+    "image":"/Rings/6.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":19,
+    "image":"/Rings/10.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":20,
+    "image":"/Rings/11.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":21,
+    "image":"/Rings/15.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":22,
+    "image":"/Rings/16.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":23,
+    "image":"/Rings/20.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":24,
+    "image":"/Rings/21.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":25,
+    "image":"/Rings/25.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":26,
+    "image":"/Rings/26.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":27,
+    "image":"/Rings/30.jpeg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":28,
+    "image":"/Rings/31.jpeg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":29,
+    "image":"/Rings/35.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":30,
+    "image":"/Rings/36.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":31,
+    "image":"/Rings/4.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":32,
+    "image":"/Rings/9.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":33,
+    "image":"/Rings/14.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":34,
+    "image":"/Rings/19.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":35,
+    "image":"/Rings/24.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":36,
+    "image":"/Rings/29.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":37,
+    "image":"/Rings/34.jpeg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+}
+]

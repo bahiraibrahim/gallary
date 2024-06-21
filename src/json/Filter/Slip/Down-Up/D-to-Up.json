@@ -1,0 +1,205 @@
+[ 
+    {
+        "id":1,
+        "image":"/Chains/4.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":80,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":2,
+        "image":"/Chains/9.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":80,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":3,
+        "image":"/Chains/14.jpeg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":80,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":4,
+        "image":"/Chains/23.jpeg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":80,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":5,
+        "image":"/Chains/28.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":80,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":6,
+        "image":"/Chains/5.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":7,
+        "image":"/Chains/10.webp",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":8,
+        "image":"/Chains/15.jpeg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":9,
+        "image":"/Chains/19.jpeg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":10,
+        "image":"/Chains/24.webp",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":11,
+        "image":"/Chains/29.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":90,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":12,
+        "image":"/Chains/2.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":100,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":13,
+        "image":"/Chains/3.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":100,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":14,
+        "image":"/Chains/7.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":100,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":15,
+        "image":"/Chains/8.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":100,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":16,
+        "image":"/Chains/12.webp",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":100,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":17,
+        "image":"/Chains/13.jpeg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":100,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":18,
+        "image":"/Chains/17.jpeg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":100,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":19,
+        "image":"/Chains/18.jpeg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":100,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":20,
+        "image":"/Chains/21.jpeg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":100,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":21,
+        "image":"/Chains/22.jpeg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":100,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":22,
+        "image":"/Chains/26.webp",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":100,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":23,
+        "image":"/Chains/1.webp",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":110,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":24,
+        "image":"/Chains/6.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":110,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":25,
+        "image":"/Chains/11.webp",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":110,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":26,
+        "image":"/Chains/16.jpeg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":110,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":27,
+        "image":"/Chains/20.jpeg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":110,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":28,
+        "image":"/Chains/25.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":110,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    },
+    {
+        "id":29,
+        "image":"/Chains/30.jpg",
+        "title":"Lorem ipsum, dolor sit amet consectetur",
+        "Price":110,
+        "available":["احمر","ازرق","اخضر","موف","اصفر"]
+    }
+]

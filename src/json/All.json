@@ -1,0 +1,704 @@
+[{
+    "id":100,
+    "image":"/Chains/1.webp",
+    "title":"سلسلة ياقوت احمر طبيعي  حجر  والقبول",
+    "Price":110,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":101,
+    "image":"/Chains/2.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":102,
+    "image":"/Chains/3.jpg",
+    "title":"سلاسل الاحجار البحرية المختلطة",
+    "Price":100,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":103,
+    "image":"/Chains/4.jpg",
+    "title":"سلاسل الاحجار البحرية المختلطة",
+    "Price":80,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":104,
+    "image":"/Chains/5.jpg",
+    "title":"سلاسل الاحجار البحرية المختلطة",
+    "Price":90,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":105,
+    "image":"/Chains/6.jpg",
+    "title":"سلاسل الاحجار البحرية المختلطة",
+    "Price":110,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":106,
+    "image":"/Chains/7.jpg",
+    "title":"سلاسل الاحجار البحرية المختلطة",
+    "Price":100,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":107,
+    "image":"/Chains/8.jpg",
+    "title":"سلسلة زفير ازرق طبيعي ياقوت ازرق",
+    "Price":100,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":108,
+    "image":"/Chains/9.jpg",
+    "title":"سلسلة مرجان طبيعي متحجر fossil coral",
+    "Price":80,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":109,
+    "image":"/Chains/10.webp",
+    "title":"سلسلة ياقوت احمر طبيعي  حجر  والقبول",
+    "Price":90,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":110,
+    "image":"/Chains/11.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":111,
+    "image":"/Chains/12.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":112,
+    "image":"/Chains/13.jpeg",
+    "title":"سلسلة مرجان طبيعي متحجر fossil coral",
+    "Price":100,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":113,
+    "image":"/Chains/14.jpeg",
+    "title":"سلسلة مرجان طبيعي متحجر fossil coral",
+    "Price":80,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":114,
+    "image":"/Chains/15.jpeg",
+    "title":"سلسلة مرجان طبيعي متحجر fossil coral",
+    "Price":90,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":115,
+    "image":"/Chains/16.jpeg",
+    "title":"سلسلة زفير ازرق طبيعي ياقوت ازرق",
+    "Price":110,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":116,
+    "image":"/Chains/17.jpeg",
+    "title":"سلسلة زفير ازرق طبيعي ياقوت ازرق",
+    "Price":100,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":117,
+    "image":"/Chains/18.jpeg",
+    "title":"سلسلة زفير ازرق طبيعي ياقوت ازرق",
+    "Price":100,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":118,
+    "image":"/Chains/19.jpeg",
+    "title":"سلسلة زفير ازرق طبيعي ياقوت ازرق",
+    "Price":90,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":119,
+    "image":"/Chains/20.jpeg",
+    "title":"سلسلة مرجان طبيعي متحجر fossil coral",
+    "Price":110,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":120,
+    "image":"/Chains/21.jpeg",
+    "title":"سلسلة مرجان طبيعي متحجر fossil coral",
+    "Price":100,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":121,
+    "image":"/Chains/22.jpeg",
+    "title":"سلسلة زفير ازرق طبيعي ياقوت ازرق",
+    "Price":100,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":122,
+    "image":"/Chains/23.jpeg",
+    "title":"سلسلة مرجان طبيعي متحجر fossil coral",
+    "Price":80,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":123,
+    "image":"/Chains/24.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":124,
+    "image":"/Chains/25.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":125,
+    "image":"/Chains/26.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":126,
+    "image":"/Chains/28.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":127,
+    "image":"/Chains/29.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+{
+    "id":128,
+    "image":"/Chains/30.jpg",
+    "title":"سلسلة زفير ازرق طبيعي ياقوت ازرق",
+    "Price":110,
+    "details":"سلسلة Oxyurus للاحجار الكريمة"
+},
+    {
+    "id":200,
+    "image":"/Earring/1.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":201,
+    "image":"/Earring/2.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+    {
+    "id":202,
+    "image":"/Earring/3.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":203,
+    "image":"/Earring/4.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":204,
+    "image":"/Earring/5.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":205,
+    "image":"/Earring/6.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":206,
+    "image":"/Earring/7.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},  
+{
+    "id":207,
+    "image":"/Earring/8.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":208,
+    "image":"/Earring/9.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":209,
+    "image":"/Earring/11.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},  
+    {
+    "id":210,
+    "image":"/Earring/12.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":211,
+    "image":"/Earring/13.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":212,
+    "image":"/Earring/14.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":213,
+    "image":"/Earring/15.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":214,
+    "image":"/Earring/16.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},    
+{
+    "id":215,
+    "image":"/Earring/17.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":216,
+    "image":"/Earring/18.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":217,
+    "image":"/Earring/19.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":218,
+    "image":"/Earring/20.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+    {
+    "id":301,
+    "image":"/Rings/1.webp",
+    "title":"خاتم سترين ذهبي طبيعي حجر الثروة ",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":302,
+    "image":"/Rings/2.webp",
+    "title":"خاتم فيروز سيناوي طبيعي معرق ",
+    "Price":80,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":303,
+    "image":"/Rings/3.jpg",
+    "title":"Bamoer Trendy Purple Flying Butterfly Rings",
+    "Price":90,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":304,
+    "image":"/Rings/4.webp",
+    "title":"خاتم فيروز سيناوي طبيعي معرق ",
+    "Price":110,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":305,
+    "image":"/Rings/5.webp",
+    "title":"خاتم فيروز سيناوي طبيعي معرق ",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":306,
+    "image":"/Rings/6.webp",
+    "title":"خاتم فيروز سيناوي طبيعي معرق ",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":307,
+    "image":"/Rings/8.jpg",
+    "title":"خاتم سترين ذهبي طبيعي حجر الثروة ",
+    "Price":90,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":308,
+    "image":"/Rings/9.jpg",
+    "title":"Bamoer Trendy Purple Flying Butterfly Rings",
+    "Price":110,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":309,
+    "image":"/Rings/10.jpg",
+    "title":"خاتم فيروز سيناوي طبيعي معرق ",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":310,
+    "image":"/Rings/11.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":311,
+    "image":"/Rings/12.jpg",
+    "title":"Bamoer Trendy Purple Flying Butterfly Rings",
+    "Price":80,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":312,
+    "image":"/Rings/13.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":313,
+    "image":"/Rings/14.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":314,
+    "image":"/Rings/15.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":315,
+    "image":"/Rings/16.webp",
+    "title":"خاتم سترين ذهبي طبيعي حجر الثروة ",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":316,
+    "image":"/Rings/17.webp",
+    "title":"خاتم فيروز سيناوي طبيعي معرق ",
+    "Price":80,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":317,
+    "image":"/Rings/18.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":318,
+    "image":"/Rings/19.webp",
+    "title":"خاتم فيروز سيناوي طبيعي معرق ",
+    "Price":110,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":319,
+    "image":"/Rings/20.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":320,
+    "image":"/Rings/21.webp",
+    "title":"خاتم فيروز سيناوي اخضر  منجذب المغناطيس",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":321,
+    "image":"/Rings/22.jpg",
+    "title":"خاتم فيروز سيناوي طبيعي معرق ",
+    "Price":80,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":322,
+    "image":"/Rings/23.jpg",
+    "title":"خاتم فيروز سيناوي اخضر  منجذب المغناطيس",
+    "Price":90,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":323,
+    "image":"/Rings/24.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":324,
+    "image":"/Rings/25.webp",
+    "title":"خاتم فيروز سيناوي طبيعي معرق ",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":325,
+    "image":"/Rings/26.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":326,
+    "image":"/Rings/27.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":327,
+    "image":"/Rings/28.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":328,
+    "image":"/Rings/29.jpg",
+    "title":"خاتم فيروز سيناوي طبيعي معرق ",
+    "Price":110,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":329,
+    "image":"/Rings/30.jpeg",
+    "title":"خاتم فيروز سيناوي اخضر  منجذب المغناطيس",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":330,
+    "image":"/Rings/31.jpeg",
+    "title":"خاتم فيروز سيناوي اخضر  منجذب المغناطيس",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":331,
+    "image":"/Rings/32.jpeg",
+    "title":"خاتم فيروز سيناوي اخضر  منجذب المغناطيس",
+    "Price":80,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":332,
+    "image":"/Rings/33.jpeg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":333,
+    "image":"/Rings/34.jpeg",
+    "title":"خاتم فيروز سيناوي طبيعي معرق ",
+    "Price":110,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":334,
+    "image":"/Rings/35.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":335,
+    "image":"/Rings/36.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":336,
+    "image":"/Rings/37.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":337,
+    "image":"/Rings/38.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"خاتم Oxyurus للاحجار الكريمة"
+},
+{
+    "id":401,
+    "image":"/Slip/1.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":402,
+    "image":"/Slip/2.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},    {
+    "id":403,
+    "image":"/Slip/3.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":404,
+    "image":"/Slip/4.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":405,
+    "image":"/Slip/5.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":406,
+    "image":"/Slip/6.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":407,
+    "image":"/Slip/7.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},    {
+    "id":408,
+    "image":"/Slip/8.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":409,
+    "image":"/Slip/9.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":410,
+    "image":"/Slip/10.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":411,
+    "image":"/Slip/11.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},    {
+    "id":412,
+    "image":"/Slip/12.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":413,
+    "image":"/Slip/13.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":414,
+    "image":"/Slip/14.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":415,
+    "image":"/Slip/15.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":416,
+    "image":"/Slip/16.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+}]

@@ -1,0 +1,136 @@
+
+[
+    {
+    "id":200,
+    "image":"/Earring/1.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":201,
+    "image":"/Earring/2.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+    {
+    "id":202,
+    "image":"/Earring/3.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":203,
+    "image":"/Earring/4.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":204,
+    "image":"/Earring/5.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":205,
+    "image":"/Earring/6.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":206,
+    "image":"/Earring/7.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},  
+{
+    "id":207,
+    "image":"/Earring/8.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":208,
+    "image":"/Earring/9.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":209,
+    "image":"/Earring/11.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},  
+    {
+    "id":210,
+    "image":"/Earring/12.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":211,
+    "image":"/Earring/13.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":212,
+    "image":"/Earring/14.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":213,
+    "image":"/Earring/15.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":214,
+    "image":"/Earring/16.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},    
+{
+    "id":215,
+    "image":"/Earring/17.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":216,
+    "image":"/Earring/18.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":217,
+    "image":"/Earring/19.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+},
+{
+    "id":218,
+    "image":"/Earring/20.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"حلق Oxyurus للاحجار الكريمة"
+}
+]

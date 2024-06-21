@@ -1,0 +1,45 @@
+
+[
+{
+    "id":1,
+    "image":"/Earring/4.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":2,
+    "image":"/Earring/9.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":3,
+    "image":"/Earring/13.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+}, 
+{
+    "id":4,
+    "image":"/Earring/17.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":5,
+    "image":"/Earring/18.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+},
+{
+    "id":6,
+    "image":"/Earring/19.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "available":["احمر","ازرق","اخضر","موف","اصفر"]
+}
+]

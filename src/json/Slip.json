@@ -1,0 +1,110 @@
+
+[{
+    "id":401,
+    "image":"/Slip/1.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":402,
+    "image":"/Slip/2.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},    {
+    "id":403,
+    "image":"/Slip/3.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":404,
+    "image":"/Slip/4.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":405,
+    "image":"/Slip/5.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":406,
+    "image":"/Slip/6.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":407,
+    "image":"/Slip/7.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},    {
+    "id":408,
+    "image":"/Slip/8.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":409,
+    "image":"/Slip/9.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":410,
+    "image":"/Slip/10.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":411,
+    "image":"/Slip/11.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},    {
+    "id":412,
+    "image":"/Slip/12.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":413,
+    "image":"/Slip/13.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":80,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":414,
+    "image":"/Slip/14.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":90,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":415,
+    "image":"/Slip/15.webp",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":110,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+},
+{
+    "id":416,
+    "image":"/Slip/16.jpg",
+    "title":"Lorem ipsum, dolor sit amet consectetur",
+    "Price":100,
+    "details":"انسيال Oxyurus للاحجار الكريمة"
+}]
